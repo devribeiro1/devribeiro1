@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devribeiro1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribeiro1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <h1>Tecnologias que eu uso no meu dia</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gil-Js" height="50" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Gil-React" height="50" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
